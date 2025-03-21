@@ -9,6 +9,8 @@ DOMAIN-SUFFIX,steamserver.net
 
 #uplay游戏下载
 DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
+DOMAIN,uplaypc-s-ubisoft-ww.cdn.ubi.com
+DOMAIN,ubisoftconnect.cdn.ubi.com
 
 #origin游戏下载
 DOMAIN,origin-a.akamaihd.net
